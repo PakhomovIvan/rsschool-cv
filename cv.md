@@ -4,6 +4,10 @@
 
 # Pakhomov Ivan
 
+&nbsp;
+
+# My Contact Info
+
 ### Phone: +7(908) 752-38-47
 ### E-mail: ip1133@ya.ru
 ### Discord: [hits4382](https://discordapp.com/users/hits4382 "Discord Link")
@@ -24,8 +28,42 @@
 
 # Skills
 
+* HTML & CSS
+* JavaScript Basics
+* Git/GitHub
+* Figma
+* VS Code
+* Adobe Photoshop
+
+&nbsp;
+
+# Code Example
+
+```
+function testIf(a, b) {
+    var x;
+    if (a < b) {
+        x = a + b;
+    } else if (a > b) {
+        x = a - b;
+    } else {
+        x = a * b;
+    }
+    return x;
+}
+```
+
 # Education
+
+### 2016 - Nizhny Novgorod State Technical University n.a. R.E. Alekseev
+#### Institute of Radio Electronics and Information Technologies, Computer Science and Computer Engineering
+
+&nbsp;
 
 # Certificates
 
-[![Stepik - HTML CSS JS](https://i.ibb.co/85RCgDh/Free-icon-certificate-6223517.png)](https://stepik.org/cert/2077745 "Stepik - HTML CSS JS") [![Stepik - SQL](https://i.ibb.co/85RCgDh/Free-icon-certificate-6223517.png)](https://www.sololearn.com/Certificate/CT-05AISAQM/png "Stepik - SQL") [![Stepik - Introduction to Linux](https://i.ibb.co/85RCgDh/Free-icon-certificate-6223517.png)](https://stepik.org/cert/2077745 "Stepik - Introduction to Linux")
+### Stepik - HTML CSS JS [![Stepik - HTML CSS JS](https://i.ibb.co/85RCgDh/Free-icon-certificate-6223517.png)](https://stepik.org/cert/2077745 "Stepik - HTML CSS JS")
+
+### Stepik - SQL [![Stepik - SQL](https://i.ibb.co/85RCgDh/Free-icon-certificate-6223517.png)](https://www.sololearn.com/Certificate/CT-05AISAQM/png "Stepik - SQL")
+
+### Stepik - Introduction to Linux [![Stepik - Introduction to Linux](https://i.ibb.co/85RCgDh/Free-icon-certificate-6223517.png)](https://stepik.org/cert/2077745 "Stepik - Introduction to Linux")
