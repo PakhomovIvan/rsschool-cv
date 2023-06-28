@@ -19,4 +19,4 @@
 
 #### I approach tasks responsibly, achieving the desired results. I quickly adapt to changing circumstances. I share my experience with colleagues and direct them to choose the right solution. 
 
-#### I invest my free time in knowledge. In winter, I divide it between training and snowboarding. 
+#### I invest my free time in knowledge. In winter, I divide it between training and snowboarding.
