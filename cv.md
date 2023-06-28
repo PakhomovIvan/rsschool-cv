@@ -19,3 +19,13 @@
 #### I approach tasks responsibly, achieving the desired results. I quickly adapt to changing circumstances. I share my experience with colleagues and direct them to choose the right solution. 
 
 #### I invest my free time in knowledge. In winter, I divide it between training and snowboarding.
+
+&nbsp;
+
+# Skills
+
+# Education
+
+# Certificates
+
+[![Stepik - HTML CSS JS](https://i.ibb.co/85RCgDh/Free-icon-certificate-6223517.png)](https://stepik.org/cert/2077745 "Stepik - HTML CSS JS") [![Stepik - SQL](https://i.ibb.co/85RCgDh/Free-icon-certificate-6223517.png)](https://www.sololearn.com/Certificate/CT-05AISAQM/png "Stepik - SQL") [![Stepik - Introduction to Linux](https://i.ibb.co/85RCgDh/Free-icon-certificate-6223517.png)](https://stepik.org/cert/2077745 "Stepik - Introduction to Linux")
