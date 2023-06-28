@@ -12,7 +12,6 @@
 
 # About me
 
-
 #### Productively performing work tasks, at the same time engaged in automation and optimization of the work process, showing high results on the internal 5+ system. 
 
 #### Engaged in training and adaptation of new employees. He was repeatedly noted for excellent performance in work. 
