@@ -85,13 +85,13 @@ function testIf(a, b) {
 ## Sber - July 2017 / September 2018
 ### Senior engineer of remote technical support:
 
-* training of new employees;
-* solving time-consuming and non-trivial tasks;
-* analysis of deviations from the security requirements of bank workstations (Automated
+* Training of new employees;
+* Solving time-consuming and non-trivial tasks;
+* Analysis of deviations from the security requirements of bank workstations (Automated
     Workstations) and MRMS (Mobile Workstations);
-* participation in pilot projects;
-* communication with related departments to solve complex tasks;
-* automation and optimization of the workflow.
+* Participation in pilot projects;
+* Communication with related departments to solve complex tasks;
+* Automation and optimization of the workflow.
 
 &nbsp;
 
