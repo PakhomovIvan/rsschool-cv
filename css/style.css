@@ -142,3 +142,13 @@ h2 {
 .main-section-middle-left-cert > a:hover {
     color: #00EBFA;
 }
+
+.main-section-footer {
+    margin-top: 50px;
+    background-color: #BFBFBF;
+}
+
+.main-section-footer > a > img {
+    width: 60px;
+    height: 60px;
+}
