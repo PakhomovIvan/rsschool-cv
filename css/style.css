@@ -49,7 +49,7 @@ h1::before {
     margin-left: -25px;
     bottom: -25px;
     border-radius: 25px;
-    background: url(./img/bent-arrow-left.png);
+    background: url(../img/bent-arrow-left.png);
     display: block;  
     height: 16px;  
     width: 16px;  
