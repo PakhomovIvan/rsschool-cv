@@ -4,7 +4,7 @@ img {
 
 p, a, li {
     color:#BFBFBF;
-    font-size: 14px;
+    font-size: 20px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: 400;
@@ -17,7 +17,7 @@ h1 {
     color:#F5F5F5;
     text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     font-family: Montserrat;
-    font-size: 16px;
+    font-size: 24px;
     font-style: normal;
     font-weight: 500;
     line-height: 95.9%;
@@ -28,16 +28,36 @@ h2 {
     color: #BFBFBF;
     text-align: justify;
     font-family: Open Sans;
-    font-size: 16px;
+    font-size: 22px;
     font-style: normal;
     font-weight: bold;
     line-height: 173.9%;
 }
-.main-section {
+
+h3 {
+    color: #BFBFBF;
+    text-align: justify;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 173.9%;
+}
+
+h1::before {
+    content: " ";  
+    position: relative;
+    margin-left: -25px;
+    bottom: -25px;
+    border-radius: 25px;
+    background: url(/img/bent-arrow-left.png);
+    display: block;  
+    height: 16px;  
+    width: 16px;  
+}
+
+header, main, footer {
     margin: 0 auto;
-    margin-top: 50px;
-    width: 55%;
-    height: 55%;
+    max-width: 1140px;
     background: #292A2E;
     align-items: center;
 }
@@ -49,6 +69,10 @@ h2 {
 
 .row {
     display: flex;
+}
+
+.main-section-top-menu {
+    align-items: center;
 }
 
 .main-section-top-rect1 {
@@ -70,6 +94,19 @@ h2 {
     color: #BFBFBF;
 }
 
+.menu_item {
+    display: inline;
+    padding-left: 30px;
+}
+
+.menu_item > a {
+    font-size: 16px;
+}
+
+.menu_item > a:hover {
+    color: #00EBFA;
+}
+
 .main-section-top-rect2 {
     margin-left: 95px;
 }
@@ -84,7 +121,9 @@ h2 {
     display: flex;
     gap: 5px;
     align-items: center;
+    font-size: 16px;
 }
+
 .main-section-top-rect2-contact > a:hover {
     color: #00EBFA;
 }
@@ -97,7 +136,8 @@ h2 {
 .main-section-middle {
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     gap: 40px
 }
 
@@ -123,27 +163,23 @@ h2 {
     width: 65%;
 }
 
-.main-section-middle-left-cert > a > img {
-    width: 18px;
-    height: 16px;
-}
-
 .main-section-middle-left-cert > a:hover {
     color: #00EBFA;
 }
 
-.main-section-footer {
+footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 50px;
     background-color: #BFBFBF;
 }
 
-.main-section-footer > a {
-    display: flex;
+footer > a {
     align-items: center;
     justify-content: center;
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 1px;
     color: #292A2E;
     gap: 5px;
 }
