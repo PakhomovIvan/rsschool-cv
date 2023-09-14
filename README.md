@@ -5,4 +5,4 @@
 
 # Main Projects
 
-[CV#1. Markdown & Git](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2023Q2/library/ "Brooklyn Public Library")  
+[Brooklyn Public Library](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2023Q2/library/ "Brooklyn Public Library")  
