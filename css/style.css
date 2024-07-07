@@ -93,6 +93,21 @@ header, main, footer {
     max-width: 100%;
     background: #00EBFA;
     transition: .9s;
+
+    &:hover {
+        color: #BFBFBF;
+        cursor: pointer;
+    }
+}
+
+.main-right {
+    justify-content: end;
+}
+
+.main-right a {
+    &:hover {
+        color: #00EBFA;
+    }
 }
 
 .main-section-top-rect1 > a {
@@ -100,28 +115,24 @@ header, main, footer {
     color: #292A2E;
 }
 
-.main-section-top-rect1:hover {
-    color: #BFBFBF;
-    cursor: pointer;
-}
 
 .menu_item {
     display: inline;
     padding-left: 30px;
-    transition: .9s;
 }
 
 .menu_item > a {
     font-size: 16px;
-}
+    transition: .7s;
 
-.menu_item > a:hover,
-.main-section-top-rect2-contact > a:hover {
-    color: #00EBFA;
+    &:hover {
+        color: #00EBFA;
+    }
 }
 
 .main-section-top-rect2 {
     margin-left: 95px;
+    gap: 250px;
 }
 
 .main-section-top-rect2-contact {
@@ -138,8 +149,12 @@ header, main, footer {
 }
 
 .main-section-top-rect2-contact > a > img {
-    width: 18px;
-    height: 16px;
+    width: 36px;
+    transition: .5s;
+
+    &:hover {
+        scale: 1.2; 
+    }
 }
 
 .main-section-middle {
@@ -164,10 +179,10 @@ header, main, footer {
     width: 46px;
     cursor: pointer;
     transition: .7s;
-}
 
-.main-section-middle-left-skill img:hover {
-    scale: 1.2;
+    &:hover {
+        scale: 1.2;
+    }
 }
 
 .main-section-middle-left-code > pre {
@@ -182,8 +197,10 @@ header, main, footer {
     width: 65%;
 }
 
-.main-section-middle-left-cert > a:hover {
-    color: #00EBFA;
+.main-section-middle-left-cert a {
+    &:hover {
+        color: #00EBFA;
+    }
 }
 
 footer {
@@ -201,4 +218,9 @@ footer > a {
     letter-spacing: 1px;
     color: #292A2E;
     gap: 5px;
+    transition: .7s;
+
+    &:hover {
+        scale: 1.2;
+    }
 }
