@@ -11,6 +11,7 @@ p, a, li {
     line-height: normal;
     letter-spacing: 1.8px;
     text-decoration: none;
+    transition: .9s;
 }
 
 h1 {
@@ -87,6 +88,7 @@ header, main, footer {
     height: 95px;
     max-width: 100%;
     background: #00EBFA;
+    transition: .9s;
 }
 
 .main-section-top-rect1 > a {
@@ -94,20 +96,23 @@ header, main, footer {
     color: #292A2E;
 }
 
-.main-section-top-rect1 > a:hover {
+.main-section-top-rect1:hover {
     color: #BFBFBF;
+    cursor: pointer;
 }
 
 .menu_item {
     display: inline;
     padding-left: 30px;
+    transition: .9s;
 }
 
 .menu_item > a {
     font-size: 16px;
 }
 
-.menu_item > a:hover {
+.menu_item > a:hover,
+.main-section-top-rect2-contact > a:hover {
     color: #00EBFA;
 }
 
@@ -126,10 +131,6 @@ header, main, footer {
     gap: 5px;
     align-items: center;
     font-size: 16px;
-}
-
-.main-section-top-rect2-contact > a:hover {
-    color: #00EBFA;
 }
 
 .main-section-top-rect2-contact > a > img {
