@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 img {
     max-width: 100%;
 }
@@ -154,6 +158,16 @@ header, main, footer {
 .main-section-middle-right {
     gap: 20px;
     width: 37%;
+}
+
+.main-section-middle-left-skill img {
+    width: 46px;
+    cursor: pointer;
+    transition: .7s;
+}
+
+.main-section-middle-left-skill img:hover {
+    scale: 1.2;
 }
 
 .main-section-middle-left-code > pre {
