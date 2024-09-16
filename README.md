@@ -12,4 +12,4 @@
 [#5 - Coffe House](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/coffe-house/ "Coffe House")\
 [#6 - Hangman Game](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/hangman "Hangman")\
 [#7 - Nonograms](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/nonograms/ "Nonograms")\
-[#8 - Nature Slider](https://pakhomovivan.github.io/cssMemeSlider/ "Nature Slider")
+[#8 - Nature Slider](https://pakhomovivan.github.io/cssMemeSlider/cssMemeSlider/index.html/ "Nature Slider")
