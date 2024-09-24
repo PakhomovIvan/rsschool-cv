@@ -10,8 +10,8 @@
 [#3 - Audio Player](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2023Q2/js30-1.2-audio-player/ "Audio Player")\
 [#4 - Audio Player v2](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2024Q2/js30-1.2-audio-player/  "Audio Player v2")\
 [#5 - API Image Galery](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2023Q2/js30-2.2-image-gallery/ "API Image Galery")\
-[#5 - API Image Galery v2](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2024Q2/js30-2.2-image-gallery/ "API Image Galery v2")\
-[#6 - Coffe House](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/coffe-house/ "Coffe House")\
-[#7 - Hangman Game](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/hangman "Hangman")\
-[#8 - Nonograms](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/nonograms/ "Nonograms")\
-[#9 - Nature Slider](https://pakhomovivan.github.io/cssMemeSlider/cssMemeSlider/ "Nature Slider")
+[#6 - API Image Galery v2](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2024Q2/js30-2.2-image-gallery/ "API Image Galery v2")\
+[#7 - Coffe House](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/coffe-house/ "Coffe House")\
+[#8 - Hangman Game](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/hangman "Hangman")\
+[#9 - Nonograms](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/nonograms/ "Nonograms")\
+[#10 - Nature Slider](https://pakhomovivan.github.io/cssMemeSlider/cssMemeSlider/ "Nature Slider")
