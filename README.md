@@ -12,6 +12,6 @@
 [#5 - API Image Galery](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2023Q2/js30-2.2-image-gallery/ "API Image Galery")\
 [#6 - API Image Galery v2](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2024Q2/js30-2.2-image-gallery/ "API Image Galery v2")\
 [#7 - Coffe House](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/coffe-house/ "Coffe House")\
-[#8 - Hangman Game](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/hangman "Hangman")\
+[#8 - Hangman Game](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2024Q2/js30-3.3-random-game/ "Hangman")\
 [#9 - Nonograms](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/nonograms/ "Nonograms")\
 [#10 - Nature Slider](https://pakhomovivan.github.io/cssMemeSlider/cssMemeSlider/ "Nature Slider")
