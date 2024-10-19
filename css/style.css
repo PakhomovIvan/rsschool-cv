@@ -2,9 +2,9 @@ html {
   scroll-behavior: smooth;
 }
 
-/* img {
-  max-width: 100%;
-} */
+body {
+  background: linear-gradient(0deg, #a8a8a8 0%, #3c3f48 100%);
+}
 
 p,
 a,
