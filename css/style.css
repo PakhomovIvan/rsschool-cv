@@ -164,6 +164,13 @@ footer {
   }
 }
 
+.main-section-middle-left-about_me p,
+.main-section-middle-right-education p,
+.main-section-middle-right-expirience p {
+  width: 85%;
+  text-align: justify;
+}
+
 .main-section-middle {
   display: flex;
   justify-content: center;
