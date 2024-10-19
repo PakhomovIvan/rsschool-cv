@@ -133,6 +133,10 @@ footer {
   }
 }
 
+.hhIcon {
+  border-radius: 5px;
+}
+
 .main-section-top-rect2 {
   margin-left: 95px;
   gap: 250px;
