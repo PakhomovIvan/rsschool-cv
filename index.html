@@ -146,12 +146,12 @@
 
   function App() {
     const [todo, setTodo] = useState(null)
-    useEffect(() => {
+    useEffect(() =&gt; {
       fetch('https://jsonplaceholder.typicode.com/todos/5')
-        .then((response) => response.json())
-        .then((json) => setTodo(json))
+        .then((response) =&gt; response.json())
+        .then((json) =&gt; setTodo(json))
     }, [])
-    return {todo && {todo.title}}
+    return {todo &amp;&amp; {todo.title}}
   }
   export default App
             </pre>
