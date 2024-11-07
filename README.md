@@ -14,6 +14,6 @@
 [#7 - Coffe House](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/coffe-house/ "Coffe House")\
 [#8 - Hangman Game](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2024Q2/js30-3.3-random-game/ "Hangman")\
 [#9 - Nonograms](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/nonograms/ "Nonograms")\
-[#10 - Nature Slider](https://pakhomovivan.github.io/cssMemeSlider/cssMemeSlider/ "Nature Slider")
-[#11 - eCommerce (Team Project)](https://dead-pixel101.netlify.app/ "eCommerce")
-[#12 - React Book Library App](https://pakhomovivan.github.io/React-Redux-ReduxToolkit/ "React Book Library App")
+[#10 - Nature Slider](https://pakhomovivan.github.io/cssMemeSlider/cssMemeSlider/ "Nature Slider")\
+[#11 - eCommerce (Team Project)](https://dead-pixel101.netlify.app/ "eCommerce")\
+[#12 - React Book Library App](https://pakhomovivan.github.io/React-Redux-ReduxToolkit/ "React Book Library App")\
