@@ -24,4 +24,4 @@
 [#12 - React Book Library App](https://pakhomovivan.github.io/React-Redux-ReduxToolkit/ "React Book Library App")\
 [#13 - Application DOCS Form](https://bravo-soft-test.vercel.app/ "Application DOCS Form")
 
-[#13 - Agriculture Store (In development)](http://v2732210.hosted-by-vdsina.ru/ "Agriculture Store") (In development)
+[#13 - Agriculture Store](http://v2732210.hosted-by-vdsina.ru/ "Agriculture Store") (In development)
