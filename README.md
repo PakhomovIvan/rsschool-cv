@@ -23,5 +23,6 @@
 [#11 - eCommerce (Team Project)](https://dead-pixel101.netlify.app/ "eCommerce")\
 [#12 - React Book Library App](https://pakhomovivan.github.io/React-Redux-ReduxToolkit/ "React Book Library App")\
 [#13 - Application DOCS Form](https://bravo-soft-test.vercel.app/ "Application DOCS Form")
+[#14 - Seminar schedule](https://it-start-zeta.vercel.app/ "Seminar schedule")
 
-[#14 - Agriculture Store](http://v2732210.hosted-by-vdsina.ru/ "Agriculture Store") (In development)
+[#15 - Agriculture Store](http://v2732210.hosted-by-vdsina.ru/ "Agriculture Store") (In development)
