@@ -85,7 +85,13 @@ footer {
 }
 
 .main-section-top-menu {
+  display: flex;
   align-items: center;
+  justify-content: space-between;
+}
+
+.main-section-top-rect {
+  margin-right: 50px;
 }
 
 .main-section-top-rect1 {
@@ -187,7 +193,7 @@ footer {
 
 .main-section-middle-right {
   gap: 20px;
-  width: 37%;
+  width: 40%;
 }
 
 .main-section-middle-left-skill img {
@@ -235,7 +241,15 @@ footer > a {
   gap: 5px;
   transition: 0.7s;
 
-  &:hover {
-    scale: 1.2;
+  &:nth-child(2) {
+    cursor: default;
+  }
+
+  &:nth-child(odd):hover {
+    scale: 1.1;
+  }
+  
+  &:nth-child(odd):active {
+    scale: 0.9;
   }
 }
