@@ -7,8 +7,8 @@
 
 [#1 - Coffe House](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2024Q4/christmas-shop/ "Сhristmas Shop")\
 [#2 - Coffe House](https://rolling-scopes-school.github.io/pakhomovivan-JSFE2023Q4/coffe-house/ "Coffe House")\
-[#3 - Cozy House](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2024Q2/shelter/ "Cozy House")
-[#4 - Brooklyn Public Library](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2023Q2/library/ "Brooklyn Public Library")\
+[#3 - Cozy House](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2024Q2/shelter/ "Cozy House")\
+[#4 - Brooklyn Public Library](https://rolling-scopes-school.github.io/pakhomovivan-JSFEPRESCHOOL2023Q2/library/ "Brooklyn Public Library")
 
 [#5 - Nature Slider](https://pakhomovivan.github.io/cssMemeSlider/cssMemeSlider/ "Nature Slider")
 
