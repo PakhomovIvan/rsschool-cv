@@ -26,6 +26,6 @@
 [#14 - Application DOCS Form](https://bravo-soft-test.vercel.app/ "Application DOCS Form")
 
 [#15 - Seminar schedule](https://it-start-zeta.vercel.app/ "Seminar schedule")\
-[#16 - Bulletin board (Similar to Avito)](http://v2732210.hosted-by-vdsina.ru:8181/ "Bulletin board (Similar to Avito)")
+[#16 - Bulletin board (Similar to Avito)](http://v324131.hosted-by-vdsina.com:8181/ "Bulletin board (Similar to Avito)")
 
-[#17- Agriculture Store](http://v2732210.hosted-by-vdsina.ru/ "Agriculture Store") (In development)
+[#17- Agriculture Store](http://v324131.hosted-by-vdsina.com/ "Agriculture Store") (In development)
